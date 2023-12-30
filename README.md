@@ -5,7 +5,7 @@ The given Covid Data gives the account of Covid Vaccinations administered in com
 
 ## Dashborad
 
-<img src="GitHub/Covid.jpeg/">
+<img src="Desktop/GitHub/Covid.jpeg/">
 
 ## Visualization:-
 ### 1st Visualization of Tree map gives the account of the Population vaccinated country wise
